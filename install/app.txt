@@ -17,6 +17,7 @@ genshin
 starrail
 zalo
 github Desktop
+git
 
 DLplayer 9 : vnify, bluearchive, Arknight, APk pure
 
