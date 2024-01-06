@@ -1,0 +1,9 @@
+teacher
+
+account: bin
+pass: bin
+
+
+
+
+làm form studentResult.cs, viewQuestion.cs

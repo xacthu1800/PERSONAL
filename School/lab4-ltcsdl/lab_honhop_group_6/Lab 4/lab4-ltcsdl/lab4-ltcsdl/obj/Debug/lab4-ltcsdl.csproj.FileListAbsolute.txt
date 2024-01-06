@@ -1,0 +1,80 @@
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe.config
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.AssemblyReference.cache
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.Properties.Resources.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.GenerateResource.cache
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.CoreCompileInputs.cache
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.passLabel.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.addQuestion.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentRegisterForm.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentResult.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.updateQuestion.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.viewQuestion.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.quizz.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe.config
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.pdb
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.addQuestion.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.passLabel.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.Properties.Resources.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.quizz.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentRegisterForm.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentResult.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.updateQuestion.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.viewQuestion.resources
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.exe
+C:\Users\USER\Documents\Zalo Received Files\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe.config
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.AssemblyReference.cache
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.addQuestion.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.passLabel.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.Properties.Resources.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.quizz.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentRegisterForm.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentResult.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.updateQuestion.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.viewQuestion.resources
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.GenerateResource.cache
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.CoreCompileInputs.cache
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\Lab 4\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe.config
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.AssemblyReference.cache
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.addQuestion.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.passLabel.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.Properties.Resources.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.quizz.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentRegisterForm.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentResult.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.updateQuestion.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.viewQuestion.resources
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.GenerateResource.cache
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.CoreCompileInputs.cache
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\lab honhop\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe.config
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\bin\Debug\lab4-ltcsdl.pdb
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.AssemblyReference.cache
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.addQuestion.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.passLabel.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.Properties.Resources.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.quizz.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentRegisterForm.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.studentResult.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.updateQuestion.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4_ltcsdl.viewQuestion.resources
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.GenerateResource.cache
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.csproj.CoreCompileInputs.cache
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.exe
+C:\Users\bin20\Desktop\lab4-ltcsdl\lab honhop - Copy\Lab 4\lab4-ltcsdl\lab4-ltcsdl\obj\Debug\lab4-ltcsdl.pdb

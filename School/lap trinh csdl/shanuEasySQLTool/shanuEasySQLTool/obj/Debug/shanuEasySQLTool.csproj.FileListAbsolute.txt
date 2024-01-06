@@ -1,0 +1,73 @@
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.exe
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.pdb
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Dmf.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\ko\Microsoft.SqlServer.Dmf.resources.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\ko\Microsoft.SqlServer.RegSvrEnum.resources.dll
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csprojResolveAssemblyReference.cache
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.shanuEasySQLTool.resources
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.Properties.Resources.resources
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csproj.GenerateResource.Cache
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.exe
+G:\Shanu\VS2015\winform\shanuSQLEditor\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.pdb
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.exe
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.pdb
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.exe
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.pdb
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Smo.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Dmf.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\ko\Microsoft.SqlServer.Dmf.resources.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\ko\Microsoft.SqlServer.RegSvrEnum.resources.dll
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csprojResolveAssemblyReference.cache
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.shanuEasySQLTool.resources
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.Properties.Resources.resources
+G:\Shanu\Shanu Projects\Articles\VS2015\WindowsForm\ShanuEasySQLTool\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csproj.GenerateResource.Cache
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.exe
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.pdb
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.exe
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.pdb
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csprojResolveAssemblyReference.cache
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.shanuEasySQLTool.resources
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.Properties.Resources.resources
+C:\Users\MyComputer\Downloads\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csproj.GenerateResource.Cache
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.exe.config
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.exe
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\shanuEasySQLTool.pdb
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\ko\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\bin\Debug\ko\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csproj.AssemblyReference.cache
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.shanuEasySQLTool.resources
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.Properties.Resources.resources
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csproj.GenerateResource.cache
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csproj.CoreCompileInputs.cache
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.csproj.CopyComplete
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.exe
+C:\Users\bin20\Desktop\shanuEasySQLTool\shanuEasySQLTool\obj\Debug\shanuEasySQLTool.pdb

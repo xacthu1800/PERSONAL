@@ -1,0 +1,17 @@
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ExcelDataReader.dll
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ExcelDataReader.xml
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ExcelDataReader.pdb
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\bin20\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\XLSXReader.dll
